@@ -6,3 +6,4 @@ Creating Food Ordering System Interface which can be seen in online websites/sel
 NOTE:
 -- Background Image should be in .png format to avoid getting errors
 
+![Project GIF](./sample.gif)
